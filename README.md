@@ -22,17 +22,6 @@ TTH introduces a **token-validator module**, implemented as a **zero-shot Multi-
 
 Extensive experiments across multiple LVLM families and diverse benchmarks demonstrate that TTH consistently improves hallucination-related accuracy and robustness, highlighting its **generality, effectiveness, and practical applicability**.
 
----
-
-## 🔍 Method Overview
-
-
-<p align="center">
-  <a href="https://github.com/Mehran-TAM/TTH/blob/main/Images/method.png">
-    <img src="https://github.com/Mehran-TAM/TTH/blob/main/Images/method.png" alt="TTH Method Overview" width="100%">
-  </a>
-</p>
-
 
 ## 📈 Experiments
 
