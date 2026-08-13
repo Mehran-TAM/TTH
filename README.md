@@ -29,9 +29,10 @@ Extensive experiments across multiple LVLM families and diverse benchmarks demon
 The overall framework of TTH is illustrated below.
 
 <p align="center">
-  <img src="Images/method.pdf" alt="Overview of the TTH method" width="100%">
+  <a href="https://github.com/Mehran-TAM/TTH/blob/main/Images/method.pdf">
+    <img src="https://github.com/Mehran-TAM/TTH/blob/main/Images/method.pdf" alt="TTH Method Overview" width="100%">
+  </a>
 </p>
-
 
 
 
