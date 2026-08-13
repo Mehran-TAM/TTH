@@ -29,7 +29,7 @@ Extensive experiments across multiple LVLM families and diverse benchmarks demon
 The overall framework of TTH is illustrated below.
 
 <p align="center">
-  <img src="figures/method.pdf" alt="Overview of the TTH method" width="100%">
+  <img src="Images/method.pdf" alt="Overview of the TTH method" width="100%">
 </p>
 
 
