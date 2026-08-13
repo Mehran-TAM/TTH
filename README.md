@@ -26,7 +26,6 @@ Extensive experiments across multiple LVLM families and diverse benchmarks demon
 
 ## 🔍 Method Overview
 
-The overall framework of TTH is illustrated below.
 
 <p align="center">
   <a href="https://github.com/Mehran-TAM/TTH/blob/main/Images/method.png">
