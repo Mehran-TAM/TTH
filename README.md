@@ -51,9 +51,11 @@ More details about the experimental setup, benchmarks, and quantitative results 
 If you find this work useful in your research, please consider citing our paper:
 
 ```bibtex
-@inproceedings{tth2026,
-  title     = {Test-Time Hallucination Control in Large Vision-Language Models},
-  author    = {},
-  booktitle = {},
-  year      = {2026}
+@misc{tamjidi2026-TTH,
+      title={Test-Time Hallucination Control in Large Vision-Language Models}, 
+      author={Mehran Tamjidi and Hamidreza Dastmalchi and Ali Cheraghian and Mohammadreza Alimoradijazi and Aijun An and Hossein Rahmani},
+      year={2026},
+      eprint={2608.11474},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2608.11474}, 
 }
